@@ -1,0 +1,9 @@
+com/mycompany/cardgame/Card.class
+com/mycompany/cardgame/CardGame.class
+com/mycompany/cardgame/Shuffle.class
+com/mycompany/cardgame/PlayerThread.class
+com/mycompany/cardgame/Player.class
+com/mycompany/cardgame/Winner.class
+com/mycompany/cardgame/CardPack.class
+com/mycompany/cardgame/CardDeck.class
+com/mycompany/cardgame/PlayerAction.class
